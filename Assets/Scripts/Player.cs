@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class Scripts
+public class Player
 {
     
 }
