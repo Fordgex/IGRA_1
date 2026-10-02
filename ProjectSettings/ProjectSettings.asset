@@ -610,8 +610,8 @@ PlayerSettings:
   editorAssembliesCompatibilityLevel: 1
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: IGRA_1
-  metroPackageVersion: 
+  metroPackageName: IGRA1
+  metroPackageVersion: 1.0.0.0
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
@@ -619,7 +619,7 @@ PlayerSettings:
   metroCertificateNotAfter: 0000000000000000
   metroApplicationDescription: IGRA_1
   wsaImages: {}
-  metroTileShortName: 
+  metroTileShortName: IGRA_1
   metroTileShowName: 0
   metroMediumTileShowName: 0
   metroLargeTileShowName: 0
@@ -686,13 +686,13 @@ PlayerSettings:
   qnxGraphicConfPath: 
   apiCompatibilityLevel: 6
   captureStartupLogs: {}
-  activeInputHandler: 1
+  activeInputHandler: 2
   windowsGamepadBackendHint: 0
   cloudProjectId: e57fe322-1569-4333-af86-ef84d9cf74e1
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
   projectName: IGRA_1
-  organizationId: 
+  organizationId: fordgex552255
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   hmiLoadingImage: {fileID: 0}
